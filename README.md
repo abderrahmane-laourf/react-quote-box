@@ -1,5 +1,19 @@
 # Getting Started with Create React App
 
+#sructure of files
+react-quote-box/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── QuoteBox.js
+│   ├── data/
+│   │   └── quotes.js
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
