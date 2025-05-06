@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 #sructure of files
+
 react-quote-box/
 ├── public/
 ├── src/
