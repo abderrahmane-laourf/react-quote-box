@@ -12,3 +12,16 @@ A simple React app that displays random quotes every time you click the button, 
 ```bash
 git clone https://github.com/abderrahmane-laourf/react-quote-box.git
 cd react-quote-box
+
+```bash
+react-quote-box/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── QuoteBox.js
+│   ├── data/
+│   │   └── quotes.js
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
