@@ -29,12 +29,7 @@ cd react-quote-box
 ```
 Install dependencies:
 
-```bash
-Copier
-```
-```bash
-Modifier
-```
+
 ```bash
 npm install
 ```
