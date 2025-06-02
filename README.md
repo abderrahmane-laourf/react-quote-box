@@ -1,7 +1,6 @@
 # 🔮 React Quote Box
 A simple React app that displays random quotes every time you click the button, with an option to share the quote on Twitter 🧠✨
 
-
 ## 📂 Repository
 
 🔗 [react-quote-box on GitHub](https://github.com/abderrahmane-laourf/react-quote-box.git)
