@@ -4,7 +4,6 @@ A simple React app that displays random quotes every time you click the button, 
 
 ## 📂 Repository
 
-
 🔗 [react-quote-box on GitHub](https://github.com/abderrahmane-laourf/react-quote-box.git)
 
 ## ⚙️ Installation & Setup
